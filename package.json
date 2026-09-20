@@ -1,0 +1,16 @@
+{
+  "name": "lec-08",
+  "version": "1.0.0",
+  "description": "Movie Recommendation System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyanshu",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.23.0",
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1"
+  }
+}
